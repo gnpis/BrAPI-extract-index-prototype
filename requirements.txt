@@ -5,5 +5,5 @@ rdflib-jsonld==0.4.0
 lark-parser
 rfc3987
 jsonschema
-urllib3==1.22
+urllib3==1.24.2
 chardet==3.0.2
